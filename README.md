@@ -3,7 +3,7 @@ A Qiskit-based study on Bell state fidelity decay under environmental noise.
 # Quantum Entanglement & Noise Resilience: A Fidelity Analysis of Bell States
 
 ## 📌 Project Overview
-This project explores the behavior of quantum entanglement under environmental noise. Using **Qiskit** and **Python**, I constructed all four maximally entangled **Bell states** ($|\Phi^+\rangle$, $|\Phi^-\rangle$, $|\Psi^+\rangle$, $|\Psi^-\rangle$) and simulated their degradation when subjected to open quantum system error channels: **Amplitude Damping** (representing thermal energy relaxation/$T_1$ decay) and **Phase Damping** (representing quantum information loss via dephasing/$T_2$ processes).
+This project explores the behavior of quantum entanglement under environmental noise. Using **Qiskit** and **Python**, I constructed all four maximally entangled **Bell states** ($|\Phi^+\rangle$, $|\Phi^-\rangle$, $|\Psi^+\rangle$, $|\Psi^-\rangle$) and simulated their degradation when subjected to open quantum system error channels: **Amplitude Damping** (representing thermal energy relaxation/$$T_1 \text{ decay}$$ decay) and **Phase Damping** (representing quantum information loss via dephasing/$$T_2 \text{ decay}$$ processes).
 
 ---
 
